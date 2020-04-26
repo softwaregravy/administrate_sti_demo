@@ -18,6 +18,10 @@
 !/log/.keep
 !/tmp/.keep
 
+# Ingore Vi
+*.swo
+*.swp
+
 # Ignore uploaded files in development.
 /storage/*
 !/storage/.keep
